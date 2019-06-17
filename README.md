@@ -1,4 +1,4 @@
-# Project_for_pose_transfer
+# Project_for_pose_transfer   Beta_version
 
 ![image](https://github.com/posetransfer-pre/Project_for_pose_transfer---Beta-version/blob/master/images/results.png)
 
