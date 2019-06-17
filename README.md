@@ -5,3 +5,17 @@
 # Introduction
 
 we propose a Component-Aligned Human Motion Transfer (CAHMT) framework to decompose solution space and relieve appearance deviation for better pose transfer results. Speciﬁcally, we ﬁrst perform local part pose alignment and then conduct part-viewpoint-matched texture transformation,followed by globally-compatible human pose and appearance reﬁnement step. 
+
+# Network Architecture
+
+# Dependencies
+
+# Training
+
+# Testing
+
+# Higer resolution results
+
+# To do
+
+The codes and other metarils will be updated.
