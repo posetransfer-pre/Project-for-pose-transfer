@@ -9,6 +9,7 @@ We propose a Component-Aligned Human Motion Transfer (CAHMT) framework to decomp
 # Higer resolution results
 
 We provide some higher resolution results (512x512) of DeepFashion dataset.
+![image](https://github.com/posetransfer-pre/Project_for_pose_transfer---Beta-version/blob/master/images/higher_resolution.png)
 
 # To do
 
