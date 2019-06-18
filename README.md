@@ -1,4 +1,4 @@
-# Project_for_pose_transfer   Beta_version
+# Componenet-aligned Pose Transfer
 
 ![image](https://github.com/posetransfer-pre/Project_for_pose_transfer---Beta-version/blob/master/images/results.png)
 
